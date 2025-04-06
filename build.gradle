@@ -37,7 +37,7 @@ tasks.named('test') {
 
 sonar {
   properties {
-    property "sonar.projectKey", "hello"
-    property "sonar.projectName", "hello"
+    property "sonar.projectKey", "hellospring"
+    property "sonar.projectName", "hellospring"
   }
 }
